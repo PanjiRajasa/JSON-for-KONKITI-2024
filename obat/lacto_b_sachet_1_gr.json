@@ -1,0 +1,34 @@
+{
+    "judul": "Lacto B Sachet 1 gr",
+    "harga": "Rp9.980",
+    "per": "SACHET",
+    "deskripsi": {
+      "fungsi": "Suplemen probiotik yang membantu mengatasi diare dan mencegah intoleransi laktosa.",
+      "golongan": "Obat bebas",
+      "kategori": "Probiotik",
+      "komposisi": [
+        "Serbuk krim nabati",
+        "Dekstrosa",
+        "Jutaan campuran bakteri laktat (Lactobacillus acidophilus, Bifidobacterium longum, Streptococcus thermophillus)",
+        "10 mg vitamin C",
+        "0,5 mg vitamin B1",
+        "0,5 mg vitamin B2",
+        "0,5 mg vitamin B6",
+        "0,5 mg niacin",
+        "Zink oksida"
+      ],
+      "kemasan": "Saset @ 1 gr",
+      "kontra_indikasi": "Alergi terhadap bahan yang terkandung di dalam produk."
+    },
+    "dosis": {
+      "anak": "3 sachet sehari"
+    },
+    "aturan_pakai": "Gunakan sesuai aturan pada kemasan atau anjuran dokter. Konsumsi segera setelah kemasan dibuka dan isi produk dicampurkan. Jangan mencampurkan dengan minuman bersoda dan makanan atau minuman panas. Jangan menggandakan dosis jika lupa mengonsumsi.",
+    "interaksi_obat": "Belum diketahui efek interaksi dengan obat, suplemen, atau produk herbal tertentu. Antibiotik dapat mengurangi efektivitas probiotik.",
+    "efek_samping": [
+      "Perut kembung",
+      "Rasa tidak nyaman di perut",
+      "Reaksi alergi (misalnya pembengkakan pada kelopak mata atau bibir, kemerahan dan gatal di kulit, kesulitan bernapas)"
+    ]
+  }
+  

@@ -1,0 +1,39 @@
+{
+    "judul": "Novorapid Flexpen 100 U 3 ml",
+    "harga": "Rp223.795",
+    "per": "PIECE",
+    "keterangan_khusus": "Obat Ini Memerlukan Resep Dokter. Untuk mendapatkan resep obat ini, Anda harus chat dengan dokter terlebih dahulu.",
+    "deskripsi": {
+      "fungsi": "Mengontrol kadar gula darah pada pasien diabetes mellitus.",
+      "golongan": "Obat keras",
+      "komposisi": "Insulin aspart 100 IU/ml",
+      "indikasi": "Mengontrol kadar gula darah pada pasien diabetes mellitus",
+      "kontraindikasi": [
+        "Alergi",
+        "Ketoasidosis diabetik",
+        "Hipoglikemia"
+      ],
+      "dosis": "1 kali sehari, sesaat sebelum makan atau setelah makan.",
+      "aturan_pakai": "Suntikkan secara subkutan (di bawah kulit) ke paha, lengan atas, atau perut. Usahakan untuk selalu membedakan lokasi penyuntikan dengan yang sebelumnya.",
+      "perhatian": [
+        "Hipoglikemia",
+        "Hipertensi",
+        "Hipokalemia",
+        "Penggunaan bersama obat diabetes yang diminum"
+      ],
+      "efek_samping": [
+        "Kemerahan pada area yang disuntikan",
+        "Pusing",
+        "Kantuk",
+        "Sakit kepala",
+        "Pandangan kabur",
+        "Sesak napas",
+        "Ruam",
+        "Berkeringat",
+        "Mual"
+      ],
+      "kemasan": "Dus, 5 Cartridge @ 3 ml In Prefilled Pen (Flexpen)",
+      "no_registrasi": "DKI1542000343A1"
+    }
+  }
+  

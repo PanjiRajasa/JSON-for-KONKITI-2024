@@ -1,0 +1,31 @@
+{
+    "judul": "Polysilane Suspensi 100 ml",
+    "harga": "Rp29.048",
+    "per": "BOTOL",
+    "deskripsi": {
+      "fungsi": "Mengurangi mual, sakit perut, atau kembung akibat sakit maag, tukak lambung, atau radang lambung.",
+      "golongan": "Obat bebas",
+      "kategori": "Obat antasida",
+      "komposisi": [
+        "Aluminium hidroksida 200 mg per 5 ml",
+        "Magnesium hidroksida 200 mg per 5 ml",
+        "Simethicone 80 mg per 5 ml"
+      ],
+      "kemasan": "Botol plastik @ 100 ml",
+      "pabrik_manufaktur": "Pharos Indonesia",
+      "no_bpom": "DBL7821624233A1"
+    },
+    "dosis": {
+      "dewasa_dan_anak_di_atas_12_tahun": "1-2 sendok takar (5-10 ml), 3-4 kali sehari.",
+      "anak_6-12_tahun": "½-1 sendok takar (2,5-5 ml), 3-4 kali sehari."
+    },
+    "aturan_pakai": "Kocok botol sebelum dibuka dan gunakan sendok takar untuk mengukur dosisnya. Dikonsumsi 1-2 jam sebelum atau setelah makan, serta menjelang waktu tidur. Hanya untuk konsumsi jangka pendek. Jika gejala belum reda dalam 1-2 minggu, sebaiknya periksakan diri ke dokter.",
+    "interaksi_obat": "Konsumsi bersamaan dengan obat cimetidine atau antibiotik tetrasiklin dapat menurunkan efektivitas obat tersebut. Berikan jeda waktu 1-2 jam jika perlu mengonsumsi obat-obatan tersebut.",
+    "efek_samping": [
+      "Mual",
+      "Muntah",
+      "Diare atau sembelit"
+    ],
+    "efek_samping_berat": "Konsultasikan dengan dokter jika efek samping semakin memburuk atau tidak segera membaik. Segera ke dokter jika mengalami reaksi alergi."
+  }
+  

@@ -1,0 +1,35 @@
+{
+    "judul": "Silex Sirup 100 ml",
+    "harga": "Rp89.725",
+    "per": "BOTOL",
+    "deskripsi": {
+      "fungsi": "Meredakan batuk berdahak dan pilek. Mengandung bahan herbal yang dipercaya dapat membantu meredakan batuk berdahak, mengurangi rasa tidak nyaman pada tenggorokan, dan mengurangi keluhan pilek.",
+      "golongan": "Obat bebas",
+      "kategori": "Obat herbal",
+      "komposisi": [
+        "Extract thyme herba siccum 41,67 mg",
+        "Extract primulae radix siccum 10 mg",
+        "Extract althaea folium siccum 58,33 mg",
+        "Extract droserae herba siccum 25 mg",
+        "Extract serphylli herba siccum 35 mg",
+        "Eucalypti ol",
+        "Anisi ol",
+        "Menthol",
+        "Sodium saccharin"
+      ],
+      "kemasan": "Botol @ 100 ml",
+      "kontra_indikasi": "Alergi terhadap kandungan produk herbal ini. Gangguan pembekuan darah, kanker berhubungan dengan estrogen (seperti kanker payudara)."
+    },
+    "dosis": {
+      "dewasa": "15 ml, 3-4 kali sehari",
+      "anak-anak": "5 ml, 3-4 kali sehari"
+    },
+    "aturan_pakai": "Konsumsi sesuai anjuran dokter dan baca keterangan pada kemasan. Silex Sirup dapat dikonsumsi sebelum atau sesudah makan. Kocok botol terlebih dahulu sebelum dikonsumsi. Gunakan sendok takar yang tersedia dalam kemasan.",
+    "interaksi_obat": "Belum diketahui interaksi pasti dengan obat, suplemen, atau produk herbal lain. Namun, thyme bisa meningkatkan risiko perdarahan jika digunakan bersama obat pengencer darah.",
+    "efek_samping": [
+      "Gangguan sakit perut",
+      "Sakit kepala",
+      "Pusing"
+    ]
+  }
+  

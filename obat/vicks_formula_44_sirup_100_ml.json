@@ -1,0 +1,49 @@
+{
+    "judul": "Vicks Formula 44 Sirup 100 ml",
+    "harga": "Rp26.940",
+    "per": "BOTOL",
+    "deskripsi": {
+      "fungsi": "Vicks Formula 44 bermanfaat meringankan batuk tidak berdahak yang disertai bersin-bersin atau alergi.",
+      "komposisi": "Mengandung dextromethorphan HBr dan doxylamine succinate. Dextromethorphan adalah obat penekan batuk, sementara doxylamine adalah antihistamin.",
+      "golongan": "Obat bebas terbatas",
+      "kategori": "Obat batuk kering (antitusif) dan antihistamin",
+      "bentuk_obat": "Sirup",
+      "kemasan": "Dus, botol plastik isi 100 ml",
+      "pabrik": "Darya Varia Laboratoria",
+      "no_bpom": "DTL0304518837A1"
+    },
+    "komposisi_per_sendok_takar": {
+      "dextromethorphan_hydrobromide": "5 mg",
+      "doxylamine_succinate": "2 mg",
+      "alcohol": "10% v/v"
+    },
+    "dosis_dan_aturan_pakai": {
+      "dewasa_dan_anak_usia_12_tahun": "2 sendok takar (10 ml) setiap 4 jam sekali. Dosis maksimal 2 sendok takar sebanyak 6 kali sehari.",
+      "anak_usia_6_12_tahun": "1 sendok takar (5 ml) setiap 4 jam sekali. Dosis maksimal 1 sendok takar sebanyak 6 kali sehari."
+    },
+    "hal_yang_perlu_diperhatikan": [
+      "Jangan mengonsumsi Vicks Formula 44 jika Anda alergi terhadap bahan yang terkandung di dalam produk ini.",
+      "Jangan mengonsumsi minuman beralkohol selama menjalani pengobatan dengan Vicks Formula 44, karena bisa meningkatkan risiko terjadinya efek samping dari doxylamine.",
+      "Jangan mengonsumsi Vicks Formula 44 jika Anda mengonsumsi obat golongan MAOI dalam 14 hari terakhir.",
+      "Konsultasikan penggunaan Vicks Formula 44 dengan dokter jika Anda menderita penyakit liver, glaukoma, pembesaran prostat jinak, kesulitan buang air kecil, atau gangguan pernapasan, seperti asma, batuk berdahak, infeksi saluran pernapasan, emfisema, atau bronkitis kronis.",
+      "Konsultasikan penggunaan Vicks Formula 44 ke dokter jika Anda berencana mengonsumsinya bersama obat, suplemen, atau produk herbal lain.",
+      "Konsultasikan penggunaan Vicks Formula 44 jika Anda akan memberikan obat ini kepada anak-anak.",
+      "Beri tahu dokter bahwa Anda sedang mengonsumsi Vicks Formula 44 jika Anda direncanakan untuk menjalani tes alergi atau operasi.",
+      "Jangan mengemudikan kendaraan atau melakukan aktivitas yang membutuhkan kewaspadaan setelah mengonsumsi Vicks Formula 44, karena obat ini dapat menyebabkan kantuk atau pusing.",
+      "Segera ke dokter jika terjadi reaksi alergi obat atau overdosis setelah mengonsumsi Vicks Formula 44."
+    ],
+    "cara_mengonsumsi": "Vicks Formula 44 perlu dikonsumsi sesuai keterangan yang tercantum di kemasannya. Jangan menambah dosis tanpa berkonsultasi terlebih dahulu dengan dokter. Gunakan sendok takar agar dosis yang dikonsumsi tepat. Vicks Formula 44 bisa dikonsumsi sebelum atau sesudah makan. Namun, untuk menghindari sakit perut, konsumsi obat ini saat makan. Hubungi dokter jika kondisi yang dialami tidak membaik setelah 7 hari pengobatan. Simpan di tempat kering dan sejuk, jauhkan dari jangkauan anak-anak.",
+    "interaksi_dengan_obat_lain": [
+      "Peningkatan risiko serotonin syndrome dengan SSRI, seperti fluoxetine dan fluvoxamine, atau MAOI, seperti isocarboxazid atau phenelzine.",
+      "Peningkatan risiko efek samping pada sistem saraf dengan antihistamin lain atau CNS depressants.",
+      "Peningkatan risiko efek antimuskarinik dengan obat antimuskarinik, seperti atropin atau antidepresan trisiklik."
+    ],
+    "efek_samping": [
+      "Mual",
+      "Pusing",
+      "Kantuk",
+      "Konstipasi"
+    ],
+    "perhatian_efek_samping_serius": "Segera temui dokter jika terjadi efek samping serius seperti penglihatan kabur, kebingungan, sulit buang air kecil, muntah-muntah, gemetar, jalan tidak seimbang, dan napas melambat."
+  }
+  
