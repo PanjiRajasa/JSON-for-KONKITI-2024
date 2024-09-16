@@ -1,0 +1,52 @@
+{
+    "judul": "Mengatasi Bau Mulut dengan Bahan Alami",
+    "pendahuluan": {
+      "deskripsi": "Bau mulut atau halitosis merupakan kondisi yang dapat dialami siapa saja. Jarang menggosok gigi atau tidak terjaganya kebersihan gigi dan mulut merupakan penyebab bau mulut yang paling sering terjadi."
+    },
+    "penyebab_bau_mulut": {
+      "umum": "Tidak rutin menggosok gigi setiap hari akan membuat serpihan sisa makanan tertinggal di mulut. Bakteri akan tumbuh pada serpihan tersebut, lalu mengeluarkan senyawa berbau tidak sedap penyebab bau mulut.",
+      "faktor_lain": [
+        "Merokok atau mengonsumsi minuman beralkohol",
+        "Mengonsumsi makanan yang berbau menyengat, seperti bawang dan petai",
+        "Infeksi atau peradangan pada hidung, rongga sinus, mulut, atau tenggorokan",
+        "Penyakit asam lambung, gangguan ginjal atau hati, dan kanker mulut"
+      ]
+    },
+    "cara_mengatasi_bau_mulut": {
+      "penanganan_umum": [
+        "Rajin menggosok gigi",
+        "Menggunakan benang gigi",
+        "Minum air putih minimal 8 gelas per hari"
+      ],
+      "penanganan_alami": {
+        "bahan_alami": [
+          {
+            "nama": "Susu",
+            "manfaat": "Menghilangkan bau mulut akibat mengonsumsi makanan berbau menyengat."
+          },
+          {
+            "nama": "Jeruk",
+            "manfaat": "Meningkatkan produksi air liur yang membantu membuang bakteri penyebab bau mulut."
+          },
+          {
+            "nama": "Teh Hijau",
+            "manfaat": "Mengandung zat antibakteri dan antioksidan yang ampuh menghilangkan bau mulut."
+          },
+          {
+            "nama": "Daun Sirih",
+            "manfaat": "Memiliki efek antibakteri dan antiradang untuk menjaga kesehatan gigi dan mulut."
+          },
+          {
+            "nama": "Akar Manis",
+            "manfaat": "Mengandung senyawa antibakteri yang dipercaya dapat menghilangkan bau mulut serta meredakan sariawan."
+          },
+          {
+            "nama": "Daun Saga",
+            "manfaat": "Mengandung senyawa antibakteri untuk membunuh bakteri penyebab bau mulut dan mengurangi peradangan pada gusi."
+          }
+        ]
+      }
+    },
+    "kesimpulan": "Apabila bau mulut tidak hilang setelah menggunakan bahan-bahan alami di atas, sebaiknya berkonsultasi ke dokter gigi untuk mengetahui penyebab pastinya."
+  }
+  
