@@ -1,0 +1,92 @@
+{
+    "judul": "Makanan untuk Penderita Diabetes yang Boleh dan Tidak Boleh Dikonsumsi",
+    "pendahuluan": {
+      "deskripsi": "Ada beberapa jenis makanan untuk penderita diabetes yang baik dan buruk untuk dikonsumsi. Hal ini penting untuk diketahui guna menjaga kadar gula dalam darah tetap normal dan stabil. Oleh karena itu, penderita diabetes dianjurkan untuk lebih cermat dalam mengonsumsi makanan."
+    },
+    "makanan_dianjurkan": {
+      "deskripsi": "Makanan untuk penderita diabetes harus disesuaikan untuk menjaga kadar gula darah. Hal ini karena peningkatan kadar gula darah pada penderita diabetes berisiko menimbulkan komplikasi kesehatan.",
+      "daftar": [
+        {
+          "nama": "Biji-bijian utuh atau karbohidrat kompleks",
+          "deskripsi": "Seperti nasi merah, ubi panggang, oatmeal, roti gandum, dan sereal dari biji-bijian utuh."
+        },
+        {
+          "nama": "Daging tanpa lemak atau ayam tanpa kulit",
+          "deskripsi": "Pilihan daging yang rendah lemak."
+        },
+        {
+          "nama": "Sayuran",
+          "deskripsi": "Seperti brokoli dan bayam, diproses dengan cara direbus, dikukus, dipanggang, atau dikonsumsi mentah."
+        },
+        {
+          "nama": "Buah-buahan segar",
+          "deskripsi": "Sebaiknya tidak ditambah gula saat diolah menjadi jus."
+        },
+        {
+          "nama": "Kacang-kacangan",
+          "deskripsi": "Termasuk kacang kedelai dalam bentuk tahu atau tempe yang dikukus, dimasak untuk sup, atau ditumis."
+        },
+        {
+          "nama": "Telur",
+          "deskripsi": "Sebagai sumber protein."
+        },
+        {
+          "nama": "Produk olahan susu rendah lemak",
+          "deskripsi": "Seperti yoghurt."
+        },
+        {
+          "nama": "Berbagai jenis ikan",
+          "deskripsi": "Seperti tuna, salmon, sarden, dan makarel. Hindari ikan dengan kadar merkuri tinggi, seperti ikan tongkol."
+        }
+      ]
+    },
+    "makanan_yang_dihindari": {
+      "deskripsi": "Bagi penderita diabetes, beberapa jenis makanan harus dihindari agar kadar gula darah tetap terjaga:",
+      "daftar": [
+        {
+          "nama": "Nasi putih",
+          "deskripsi": "Mengandung kadar gula yang lebih tinggi dibandingkan dengan sumber karbohidrat lainnya."
+        },
+        {
+          "nama": "Roti tawar putih",
+          "deskripsi": "Terbuat dari tepung terigu."
+        },
+        {
+          "nama": "Sayuran yang dimasak dengan tambahan garam, keju, mentega, dan saus",
+          "deskripsi": "Mengandung bahan tambahan yang tidak sehat."
+        },
+        {
+          "nama": "Buah-buahan kalengan",
+          "deskripsi": "Biasanya mengandung banyak gula."
+        },
+        {
+          "nama": "Sayuran kalengan",
+          "deskripsi": "Mengandung garam tinggi."
+        },
+        {
+          "nama": "Daging berlemak dan kulit ayam",
+          "deskripsi": "Mengandung lemak tinggi."
+        },
+        {
+          "nama": "Produk susu tinggi lemak",
+          "deskripsi": "Mengandung lemak jenuh."
+        },
+        {
+          "nama": "Makanan yang digoreng",
+          "deskripsi": "Seperti ayam goreng, ikan goreng, pisang goreng, dan kentang goreng."
+        },
+        {
+          "nama": "Makanan dan minuman mengandung gula tinggi",
+          "deskripsi": "Seperti kue, madu, sirop, dan soda."
+        }
+      ]
+    },
+    "penutup": {
+      "deskripsi": "Makanan untuk penderita diabetes sebaiknya merupakan masakan hasil buatan sendiri untuk memantau bahan baku dan bahan tambahan yang digunakan. Penderita diabetes disarankan untuk rutin mengecek kadar gula darah, memeriksakan diri ke dokter setidaknya 3 bulan sekali, dan menerapkan pola hidup sehat. Dengan pola makan sehat, olahraga, dan pengobatan yang tepat, kadar gula darah dapat lebih mudah terkontrol dan risiko terkena komplikasi penyakit diabetes pun akan menjadi lebih rendah. Jika membutuhkan saran mengenai menu atau porsi makanan yang tepat, konsultasikan dengan dokter."
+    },
+    "informasi": {
+      "tanggal_perbarui": "17 November 2023",
+      "ditinjau_oleh": "dr. Sienny Agustin"
+    }
+  }
+  

@@ -1,0 +1,112 @@
+{
+    "judul": "9 Manfaat Telur Asin yang Jarang Diketahui",
+    "pendahuluan": {
+      "deskripsi": "Ada banyak manfaat telur asin bagi kesehatan, terutama untuk mata, otak, dan otot. Beragam kandungan nutrisi di dalamnya menjadikan telur asin sangat baik dikonsumsi. Meski begitu, telur asin mengandung kadar kolesterol yang tinggi sehingga tidak anjurkan untuk dikonsumsi secara berlebihan."
+    },
+    "deskripsi_telur_asin": {
+      "deskripsi": "Telur asin merupakan telur yang diawetkan menggunakan garam. Jenis telur yang lebih sering dipakai adalah telur bebek dibandingkan telur ayam. Ini karena telur bebek dianggap memiliki kualitas cangkang yang baik dalam menyerap garam, sehingga lebih awet dan tahan lama."
+    },
+    "kandungan_nutrisi": {
+      "deskripsi": "Telur asin yang menggunakan telur bebek memiliki kandungan nutrisi lebih banyak, terutama protein, lemak sehat, vitamin, dan mineral. Dalam 100 gram telur asin terdapat:",
+      "daftar": [
+        {
+          "nama": "Kalori",
+          "nilai": "182 kalori"
+        },
+        {
+          "nama": "Protein",
+          "nilai": "13 gram"
+        },
+        {
+          "nama": "Lemak",
+          "nilai": "13 gram"
+        },
+        {
+          "nama": "Karbohidrat",
+          "nilai": "2 gram"
+        },
+        {
+          "nama": "Sodium",
+          "nilai": "1982 miligram"
+        },
+        {
+          "nama": "Kalsium",
+          "nilai": "109 miligram"
+        },
+        {
+          "nama": "Kolesterol",
+          "nilai": "345 miligram"
+        },
+        {
+          "nama": "Vitamin A",
+          "nilai": "1364 IU"
+        }
+      ]
+    },
+    "manfaat_telur_asin": {
+      "deskripsi": "Berikut ini adalah berbagai manfaat telur asin bagi kesehatan:",
+      "daftar": [
+        {
+          "nama": "Menjaga kesehatan mata",
+          "deskripsi": "Telur asin mengandung vitamin A yang dapat memenuhi asupan vitamin A harian dan menjaga kesehatan mata, termasuk fungsi retina dan kelembapan kornea."
+        },
+        {
+          "nama": "Mencegah risiko degenerasi makula",
+          "deskripsi": "Vitamin A dan beta karoten dalam telur asin dapat menurunkan risiko degenerasi makula terkait usia dan mencegah katarak."
+        },
+        {
+          "nama": "Menjaga kesehatan otak",
+          "deskripsi": "Kuning telur asin kaya akan kolin, yang penting untuk kesehatan sel otak dan sistem saraf, serta mengandung asam lemak omega-3 dan vitamin B kompleks."
+        },
+        {
+          "nama": "Mendukung perkembangan janin",
+          "deskripsi": "Telur asin dapat memberikan nutrisi penting untuk perkembangan janin, terutama untuk otak dan penglihatan, jika dimakan oleh ibu hamil."
+        },
+        {
+          "nama": "Menjaga kesehatan tulang dan otot",
+          "deskripsi": "Kandungan protein, vitamin D, dan mineral dalam telur asin dapat memperkuat tulang dan otot, serta mendukung pertumbuhan massa otot."
+        },
+        {
+          "nama": "Mencegah defisiensi vitamin D",
+          "deskripsi": "Konsumsi telur asin dapat membantu mencegah kekurangan vitamin D, meskipun juga penting untuk melengkapinya dengan paparan sinar matahari dan makanan lain."
+        },
+        {
+          "nama": "Menjaga sistem kekebalan tubuh",
+          "deskripsi": "Putih telur asin kaya akan protein dan asam amino esensial yang membantu menjaga sistem kekebalan tubuh dan melindungi dari infeksi."
+        },
+        {
+          "nama": "Menurunkan risiko penyakit jantung",
+          "deskripsi": "Telur asin mengandung antioksidan, lemak sehat, dan mineral yang mendukung kesehatan jantung dan pembuluh darah, jika dikonsumsi dalam jumlah yang wajar."
+        },
+        {
+          "nama": "Mencegah penyakit kanker",
+          "deskripsi": "Kandungan antioksidan pada telur asin dapat melindungi sel tubuh dari kerusakan yang berpotensi menyebabkan kanker, meskipun penelitian lebih lanjut masih diperlukan."
+        }
+      ]
+    },
+    "tips_penggunaan": {
+      "deskripsi": "Untuk mengontrol asupan garam saat mengonsumsi telur asin, beberapa tips yang bisa dilakukan antara lain:",
+      "daftar": [
+        {
+          "nama": "Konsumsi makanan bergizi lain",
+          "deskripsi": "Pilih makanan rendah garam seperti sayuran dan buah-buahan."
+        },
+        {
+          "nama": "Kurangi penggunaan bumbu",
+          "deskripsi": "Hindari bumbu tinggi garam seperti kecap dan saus teriyaki."
+        },
+        {
+          "nama": "Kurangi camilan tinggi garam",
+          "deskripsi": "Batasi konsumsi keripik, makanan beku, dan makanan olahan."
+        }
+      ]
+    },
+    "penutup": {
+      "deskripsi": "Telur asin umumnya aman dikonsumsi dan memberikan banyak manfaat jika tidak dikonsumsi secara berlebihan. Terlalu banyak mengonsumsi telur asin dapat meningkatkan risiko penyakit jantung, obesitas, dan diabetes. Konsultasikan dengan dokter jika Anda memiliki riwayat penyakit jantung atau kolesterol tinggi, dan hindari jika Anda alergi terhadap telur."
+    },
+    "informasi": {
+      "tanggal_perbarui": "8 Januari 2023",
+      "ditinjau_oleh": "dr. Airindya Bella"
+    }
+  }
+  
