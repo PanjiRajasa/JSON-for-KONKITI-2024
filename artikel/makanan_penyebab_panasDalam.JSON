@@ -1,0 +1,77 @@
+{
+    "judul": "Makanan Penyebab Panas Dalam, Ini Fakta yang Perlu Diketahui",
+    "pendahuluan": {
+      "deskripsi": "Panas dalam adalah istilah umum yang menggambarkan gejala infeksi saluran pernapasan akut (ISPA) seperti faringitis. Gejala termasuk tenggorokan kering, sakit saat menelan, demam, dan sakit kepala. Panas dalam juga dikaitkan dengan penyakit asam lambung (GERD)."
+    },
+    "fakta": {
+      "penjelasan": "Panas dalam tidak secara langsung disebabkan oleh makanan tertentu, melainkan oleh infeksi virus atau bakteri, seperti Influenza, Adenovirus, Rhinovirus, dan Streptococcus A.",
+      "penyebab_tambahan": "Makanan yang tidak higienis atau pengolahan yang salah dapat meningkatkan risiko infeksi penyebab panas dalam. Berbagi makanan atau alat makan dengan penderita juga dapat menyebarkan infeksi."
+    },
+    "makanan_penyebab_panas_dalam": {
+      "penjelasan": "Beberapa makanan dapat memperparah kondisi panas dalam meskipun tidak langsung menyebabkannya.",
+      "daftar": [
+        {
+          "nama": "Makanan berminyak",
+          "dampak": "Meningkatkan peradangan dalam tubuh dan mengganggu keseimbangan bakteri baik di usus, sehingga memperburuk gejala panas dalam."
+        },
+        {
+          "nama": "Makanan pedas",
+          "dampak": "Meningkatkan produksi lendir di tenggorokan, memperparah rasa gatal dan sakit."
+        },
+        {
+          "nama": "Makanan bertekstur kasar",
+          "dampak": "Memperparah iritasi pada tenggorokan dan memperburuk rasa sakit saat menelan."
+        },
+        {
+          "nama": "Makanan asin",
+          "dampak": "Menyebabkan tenggorokan kering dan memperburuk iritasi, terutama jika disertai sariawan atau bibir pecah-pecah."
+        },
+        {
+          "nama": "Makanan yang menghasilkan gas",
+          "dampak": "Memperburuk gejala panas dalam akibat asam lambung dengan meningkatkan tekanan dalam perut."
+        },
+        {
+          "nama": "Makanan asam",
+          "dampak": "Memperparah iritasi pada tenggorokan dan memperburuk gejala panas dalam."
+        }
+      ]
+    },
+    "minuman_yang_dihindari": {
+      "penjelasan": "Beberapa minuman dapat memperparah panas dalam.",
+      "daftar": [
+        {
+          "nama": "Susu",
+          "dampak": "Meningkatkan produksi lendir di tenggorokan pada beberapa orang."
+        },
+        {
+          "nama": "Minuman bersoda",
+          "dampak": "Kandungan soda dan keasaman memperburuk iritasi tenggorokan."
+        },
+        {
+          "nama": "Minuman beralkohol",
+          "dampak": "Menyebabkan tenggorokan kering, memperburuk gejala."
+        }
+      ]
+    },
+    "makanan_yang_dikonsumsi_saat_panas_dalam": {
+      "penjelasan": "Konsumsi makanan yang lembut, mudah ditelan, dan hangat dapat membantu meredakan panas dalam.",
+      "daftar": [
+        "Buah-buahan seperti semangka, melon, dan kelapa muda",
+        "Teh hangat",
+        "Sup atau kaldu",
+        "Air lemon",
+        "Smoothies dan yogurt",
+        "Telur rebus",
+        "Oatmeal",
+        "Madu"
+      ]
+    },
+    "penutup": {
+      "deskripsi": "Selain menghindari makanan penyebab panas dalam, perbanyak istirahat dan konsumsi obat panas dalam jika diperlukan. Jika gejala tidak membaik, konsultasikan dengan dokter."
+    },
+    "informasi": {
+      "tanggal_perbarui": "12 September 2024",
+      "ditinjau_oleh": "dr. Robby Firmansyah Murzen"
+    }
+  }
+  

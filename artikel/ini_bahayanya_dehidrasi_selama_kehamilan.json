@@ -1,0 +1,88 @@
+{
+    "judul": "Ini Bahayanya Dehidrasi Selama Kehamilan",
+    "pendahuluan": {
+      "deskripsi": "Bahaya dehidrasi selama kehamilan jangan dianggap sepele ya, Bumil. Kondisi ini dapat mengganggu tumbuh kembang janin, bahkan menyebabkan komplikasi kehamilan. Idealnya, cairan yang masuk dan keluar dari tubuh harus selalu seimbang, terlebih saat hamil yang butuh asupan cairan lebih banyak dari biasanya."
+    },
+    "deskripsi_dehidrasi": {
+      "deskripsi": "Ibu hamil bisa mengalami dehidrasi apabila kurang makan dan minum karena puasa, diare, sering muntah, dan banyak berkeringat atau justru sering merasa gerah."
+    },
+    "bahaya_dehidrasi": {
+      "deskripsi": "Dehidrasi selama kehamilan dapat menyebabkan kondisi-kondisi berikut ini:",
+      "daftar": [
+        {
+          "nama": "Air ketuban terlalu sedikit",
+          "deskripsi": "Dehidrasi dapat menyebabkan volume air ketuban terlalu sedikit, yang dapat mengganggu perkembangan janin atau bahkan menyebabkan keguguran. Pada trimester akhir, kondisi ini dapat meningkatkan risiko kelahiran prematur dan komplikasi saat melahirkan."
+        },
+        {
+          "nama": "Picu kontraksi palsu",
+          "deskripsi": "Dehidrasi dapat memicu kontraksi Braxton-Hicks, yaitu kontraksi palsu yang biasanya terjadi pada trimester ketiga, namun juga bisa terjadi pada trimester kedua."
+        },
+        {
+          "nama": "Komplikasi kehamilan",
+          "deskripsi": "Dehidrasi dapat memicu komplikasi serius, seperti cacat bawaan pada bayi, gangguan sistem saraf, dan meningkatkan risiko persalinan prematur. Selain itu, produksi ASI juga bisa menurun."
+        },
+        {
+          "nama": "Kematian pada bayi atau ibu",
+          "deskripsi": "Dehidrasi berat yang tidak ditangani dengan baik dapat menyebabkan syok hipovolemik, yang bisa mengancam nyawa ibu hamil serta janin."
+        }
+      ]
+    },
+    "tanda_tanda_dehidrasi": {
+      "deskripsi": "Cara paling sederhana untuk mengenali dehidrasi adalah dengan memperhatikan warna urine. Warna urine kuning pekat menandakan kurangnya asupan cairan, sedangkan warna urine bening menunjukkan tubuh terhidrasi dengan baik.",
+      "gejala": {
+        "dehidrasi_ringan_hingga_sedang": [
+          "Berkurangnya frekuensi buang air kecil",
+          "Haus",
+          "Mengantuk",
+          "Mulut terasa kering dan lengket",
+          "Sakit kepala",
+          "Pusing",
+          "Konstipasi"
+        ],
+        "dehidrasi_berat": [
+          "Jumlah dan frekuensi buang air kecil menurun atau tidak ada sama sekali",
+          "Urine berwarna kuning pekat",
+          "Sangat lemas",
+          "Sangat haus",
+          "Mata cekung",
+          "Mulut sangat kering",
+          "Kulit sangat kering dan kurang elastis",
+          "Mudah marah dan kebingungan",
+          "Jantung berdegup kencang dan napas cepat"
+        ]
+      }
+    },
+    "tips_terhidrasi": {
+      "deskripsi": "Mencegah dehidrasi selama kehamilan cukup mudah, yaitu dengan minum air putih sekitar 3 liter per hari atau setara dengan 8–12 gelas. Berikut beberapa tips tambahan:",
+      "daftar": [
+        {
+          "nama": "Hindari minuman berkafein",
+          "deskripsi": "Minuman berkafein seperti kopi, teh, dan soda dapat menyebabkan sering buang air kecil karena sifat diuretiknya."
+        },
+        {
+          "nama": "Buat infused water",
+          "deskripsi": "Tambahkan kiwi, lemon, dan jeruk pada air putih untuk meredakan mual saat minum air putih."
+        },
+        {
+          "nama": "Minum minuman bergula dan elektrolit",
+          "deskripsi": "Minum air kelapa atau minuman yang mengandung gula, vitamin, dan elektrolit untuk membantu hidrasi."
+        },
+        {
+          "nama": "Makan buah tinggi air",
+          "deskripsi": "Konsumsi buah seperti stroberi, semangka, lemon, jambu air, dan blewah untuk membantu mengatasi pusing saat hamil."
+        },
+        {
+          "nama": "Makan dan minum saat tidak mual",
+          "deskripsi": "Usahakan untuk makan dan minum saat tidak merasa mual, khususnya jika mengalami gejala morning sickness."
+        }
+      ]
+    },
+    "penutup": {
+      "deskripsi": "Jaga selalu asupan cairan agar terhindar dari bahaya dehidrasi selama kehamilan. Jika mengalami mual dan muntah parah yang membuat sulit makan atau minum, serta gejala dehidrasi, berkonsultasilah dengan dokter untuk penanganan yang tepat."
+    },
+    "informasi": {
+      "tanggal_perbarui": "25 April 2024",
+      "ditinjau_oleh": "dr. Sienny Agustin"
+    }
+  }
+  
