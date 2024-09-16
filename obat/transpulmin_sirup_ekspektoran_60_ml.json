@@ -1,0 +1,39 @@
+{
+    "judul": "Transpulmin Sirup Ekspektoran 60 ml",
+    "harga": "Rp119.534",
+    "per": "BOTOL",
+    "keterangan_khusus": "Obat Ini Memerlukan Resep Dokter. Untuk mendapatkan resep obat ini, Anda harus chat dengan dokter terlebih dahulu.",
+    "deskripsi": {
+      "fungsi": "Meredakan batuk berdahak serta batuk tidak berdahak pada dewasa dan anak-anak.",
+      "golongan": "Obat resep",
+      "kategori": "Obat batuk",
+      "komposisi": [
+        "Pipazetate HCl 10 mg per 5 ml",
+        "Isothipendyl HCl 2 mg per 5 ml",
+        "Liquorice extract 75 mg per 5 ml",
+        "Glyceryl guaiacolate 25 mg per 5 ml"
+      ],
+      "kemasan": "Dus, Botol @ 60 ml",
+      "kontra_indikasi": "Tidak boleh dikonsumsi oleh ibu hamil dan ibu menyusui. Tidak boleh diberikan kepada bayi atau anak-anak berusia <2 tahun. Konsultasikan dengan dokter untuk anak-anak berusia <6 tahun atau lansia (>60 tahun)."
+    },
+    "dosis": {
+      "dewasa_dan_anak_di_atas_12_tahun": "3-4 kali sehari, 2 sendok takar (10 ml)",
+      "anak_6-12_tahun": "2-3 kali sehari, 2 sendok takar (10 ml)",
+      "anak_2-6_tahun": "2-4 kali sehari, 1 sendok takar (5 ml)"
+    },
+    "aturan_pakai": "Ikuti anjuran dokter dan baca petunjuk pada kemasan. Konsumsi sebelum atau sesudah makan. Gunakan sendok takar khusus yang disertakan dalam kemasan.",
+    "interaksi_obat": "Belum diketahui efek interaksi yang bisa timbul. Selalu beri tahu dokter jika ingin mengonsumsi obat lain bersamaan.",
+    "efek_samping": [
+      "Kantuk",
+      "Pusing",
+      "Insomnia",
+      "Mulut kering",
+      "Pandangan kabur",
+      "Mual",
+      "Muntah",
+      "Urtikaria",
+      "Takikardia"
+    ],
+    "efek_samping_berat": "Lakukan pemeriksaan ke dokter jika efek samping tidak kunjung mereda atau semakin memburuk."
+  }
+  
